@@ -25,6 +25,7 @@ El usuario quiere permitir acceso a la aplicación para que pueda accesar a los 
 
 ##### User Story 2
 El usuario quiere ver la lista de sus contactos guardados en el celular para poder verlos de manera más sencilla.
+
 ![Contact List](https://dl.dropboxusercontent.com/u/654087/Screens/Contact%20List.png)
 
 ##### User Story 3
@@ -32,8 +33,10 @@ El usuario quiere marcar un usuario como favorito.
 
 ##### User Story 4
 El usuario quiere confirmar que desea agregar al usuario seleccionado como favorito.
+
 ![Confirm Favorite](https://dl.dropboxusercontent.com/u/654087/Screens/Confirm.png)
 
 ##### User Story 5
 El usuario quiere ver agrupados a sus usuarios favoritos.
+
 ![Favorite List](https://dl.dropboxusercontent.com/u/654087/Screens/Favorite.png)
