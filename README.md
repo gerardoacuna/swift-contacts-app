@@ -16,10 +16,12 @@ El objetivo es crear una aplicación que muestre los contactos guardados en el c
 
 ##### User Story 1
 El usuario quiere permitir acceso a la aplicación para que pueda accesar a los contactos de su celular.
-![Permission](https://dl.dropboxusercontent.com/u/654087/Screens/Permission.png)
 
 **Escenario 1:** El usuario acepta el acceso y lo redirige a la lista de usuarios.
+
 **Escenario 2:** El usuario deniega el acces y lo redirige a una pantalla vacía.
+
+![Permission](https://dl.dropboxusercontent.com/u/654087/Screens/Permission.png)
 
 ##### User Story 2
 El usuario quiere ver la lista de sus contactos guardados en el celular para poder verlos de manera más sencilla.
