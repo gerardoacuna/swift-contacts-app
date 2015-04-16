@@ -14,24 +14,24 @@ El objetivo es crear una aplicación que muestre los contactos guardados en el c
 
 ![Loading](https://dl.dropboxusercontent.com/u/654087/Screens/Loading.png)
 
-**User Story 1**
+##### User Story 1
 El usuario quiere permitir acceso a la aplicación para que pueda accesar a los contactos de su celular.
 ![Permission](https://dl.dropboxusercontent.com/u/654087/Screens/Permission.png)
 
 **Escenario 1:** El usuario acepta el acceso y lo redirige a la lista de usuarios.
 **Escenario 2:** El usuario deniega el acces y lo redirige a una pantalla vacía.
 
-**User Story 2**
+##### User Story 2
 El usuario quiere ver la lista de sus contactos guardados en el celular para poder verlos de manera más sencilla.
 ![Contact List](https://dl.dropboxusercontent.com/u/654087/Screens/Contact%20List.png)
 
-**User Story 3**
+##### User Story 3
 El usuario quiere marcar un usuario como favorito.
 
-**User Story 4**
+##### User Story 4
 El usuario quiere confirmar que desea agregar al usuario seleccionado como favorito.
 ![Confirm Favorite](https://dl.dropboxusercontent.com/u/654087/Screens/Confirm.png)
 
-**User Story 5**
+##### User Story 5
 El usuario quiere ver agrupados a sus usuarios favoritos.
 ![Favorite List](https://dl.dropboxusercontent.com/u/654087/Screens/Favorite.png)
